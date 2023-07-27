@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #9C0045;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand {
+    color: white !important;
+}
+.nav-link:hover{
+    color: rgb(219, 188, 188) !important;
+}
+.navbar-brand:hover{
+    color: rgb(219, 188, 188) !important;
+}
+
+.navbar-toggler-icon{
+    background-image: url('../images/toggle.png');
+    background-size: contain;
+}
+.button{
+    font-weight: bold;
+    color: #9C0045 !important;
+}

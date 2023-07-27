@@ -1,0 +1,20 @@
+
+.loginBg{
+    background-color: white;
+    height: 500px;
+}
+
+.signupPortion{
+    background-color: #9C0045;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.submit{
+    background-color: #9C0045 !important;
+}
+
+.signup{
+    background-color: white !important;
+    color: #9C0045 !important;
+}

@@ -1,0 +1,15 @@
+.signUpPage{
+    color: #9C0045;
+    height: 694px;
+    background-size: cover;
+    font-weight: bold;
+    background-color: black;
+}
+
+.formbg{
+    border: solid 2px white;
+    border-radius: 10px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStOVppod0hnb2snfO5Nkr4h2ABIO7DXrD90C_cfsDNfBhCN6h0njnezQy2fPXC9-jghB0&usqp=CAU');
+    background-size: cover;
+
+}
